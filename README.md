@@ -2,16 +2,16 @@
 Some Programming Resources
 
 # Table of contents
-1. [Mars Rover Resources (NASA)]
-    1. [Curiosity rover (Mars Science Lab)]
-    2. [Perseverance rover (Mars 2020)]
-2. [Mars Rover Game(s)]
-    1. [NASA games]
-    2. [Make your own rover game]
-3. [Python Programming Online]
-    1. [General (free) python programming stuff for kids]
-    2. [More advanced stuff]
-4. [Miscellaneous Interesting NASA Stuff]
+1. Mars Rover Resources (NASA)
+  1. Curiosity rover (Mars Science Lab)
+  2. Perseverance rover (Mars 2020)
+2. Mars Rover Game(s)
+  1. NASA games
+  2. Make your own rover game
+3. Python Programming Online
+  1. General (free) python programming stuff for kids
+  2. More advanced stuff
+4. Miscellaneous Interesting NASA Stuff
 
 ## Mars Rover Resources
 
