@@ -64,6 +64,11 @@ Some Programming Resources
 * ***This is not a normal interpreter per se, but it can be used to visualize what your Python code is doing step-by-step and line-by-line:*** https://pythontutor.com/
   * Copy all your code into here and then click "Visualize Execution" for it to create the visuals for you: https://pythontutor.com/python-debugger.html#mode=edit
 
+* ...There are also 'iPython notebooks' that some folks create and share online -- these range from the very complex to very simple
+  * Jupyter Notebook has a free online tool (Jupyter Lab) that allows ".ipynb" tutorials and such to be shared easily: https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb
+  * Google Colab also has an online tool that runs ".ipynb" files as well: https://colab.research.google.com/drive/1YKHHLSlG-B9Ez2-zf-YFxXTVgfC_Aqtt
+  * Some iPython notebooks for programming for kids are discussed in this forum here: https://discourse.jupyter.org/t/python-for-kids/6747
+
 ### General (free) Python programming stuff for kids
 * PythonTurtle (inspired by Logo) (requires local install)
   * This is a self-contained tutorial that requires a local installation, but is pretty good: https://pythonturtle.org/
@@ -93,6 +98,8 @@ Some Programming Resources
 
 ### General (free) Python programming stuff for beginners (not necessarily for kids)
 * ***Very basic step-by-step tutorial that includes a Python interpreter in the webpage itself(!!):*** https://learn-python.adamemery.dev/
+* ***UC Libraries website, which has several tutorials that run within a Google Colab notebook online:*** https://guides.libraries.uc.edu/c.php?g=222622&p=1473174
+  * As an example, click on "Introduction to Python Part - 1", and then (under "Path") click on "Introduction_to_Python_Part_1.ipynb" to run the notebook
 * The main Python website gives a much larger list of tutorials (some of which I also link to in this document):
   * https://wiki.python.org/moin/BeginnersGuide/NonProgrammers
 * Lots of videos and transcripts / instructions: https://www.simplilearn.com/tutorials/python-tutorial
