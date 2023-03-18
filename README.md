@@ -2,20 +2,20 @@
 Some Programming Resources
 
 # Table of contents
-1. [Mars Rover Resources (NASA)](#headingA)
-    1. [Curiosity rover (Mars Science Lab)](#subheadingAa)
-    2. [Perseverance rover (Mars 2020)](#subheadingAb)
-2. [Mars Rover Game(s)](#headingB)
-    1. [NASA games](#subheadingBa)
-    2. [Make your own rover game](#subheadingBb)
-3. [Python Programming Online](#headingC)
-    1. [General (free) python programming stuff for kids](#subheadingCa)
-    2. [More advanced stuff](#subheadingCb)
-4. [Miscellaneous Interesting NASA Stuff](#headingD)
+1. [Mars Rover Resources (NASA)]
+    1. [Curiosity rover (Mars Science Lab)]
+    2. [Perseverance rover (Mars 2020)]
+2. [Mars Rover Game(s)]
+    1. [NASA games]
+    2. [Make your own rover game]
+3. [Python Programming Online]
+    1. [General (free) python programming stuff for kids]
+    2. [More advanced stuff]
+4. [Miscellaneous Interesting NASA Stuff]
 
-## Mars Rover Resources <a name="headingA"></a>
+## Mars Rover Resources
 
-### Curiosity rover (Mars Science Lab) <a name="subheadingAa"></a>
+### Curiosity rover (Mars Science Lab)
 * Interactive realistic Mars Curiosity rover driving
   * Just click on the screen under "Free Drive and Rover Replay" mode and it'll move!): https://eyes.nasa.gov/curiosity/
 * General Curiosity rover resources:
@@ -23,32 +23,32 @@ Some Programming Resources
   * Explore with Curiosity in 3D (mostly images): https://mars.nasa.gov/msl/surface-experience/
   * 3D model (click on components for more information): https://mars.nasa.gov/msl/rover-3d/
 
-### Perseverance rover (Mars 2020) <a name="subheadingAb"></a>
+### Perseverance rover (Mars 2020)
 * General Perseverance rover resources:
   * Main Mars 2020 page: https://mars.nasa.gov/mars2020/
   * Explore with Perseverance in 3D (mostly images): https://mars.nasa.gov/mars2020/surface-experience/?drive=0&site=31
   * 3D model (click on components for more information): https://mars.nasa.gov/mars2020/spacecraft/rover/
 
-## Mars Rover Game(s) <a name="headingB"></a>
+## Mars Rover Game(s)
 
-### NASA games <a name="subheadingBa"></a>
+### NASA games
 * Downloadable + installable Mars rover driving game (with educational info)
   * https://mars.nasa.gov/gamee-rover/
 * Online Mars rover driving game (play in browser window)
   * https://spaceplace.nasa.gov/explore-mars/en/
 
-### Make your own rover game <a name="subheadingBb"></a>
+### Make your own rover game
 * Instructions for creating a Mars rover game yourself! (will need to create a free Scratch account)
   * Scratch website: https://scratch.mit.edu/
   * Instructions: https://www.jpl.nasa.gov/edu/learn/project/make-a-moon-or-mars-rover-game/
 
-## Python Programming Online <a name="headingC"></a>
+## Python Programming Online
 ...
 
-### General (free) python programming stuff for kids <a name="subheadingCa"></a>
+### General (free) python programming stuff for kids
 ...
 
-### More advanced stuff <a name="subheadingCb"></a>
+### More advanced stuff
 * Mars Curiosity rover model (controllable ROS+Gazebo model)
   * Post about ROSject online: https://discourse.ros.org/t/the-nasa-curiosity-rover-rosject-is-now-open-source/7635
   * Direct link (will need to create a free account with TheConstructSim to fork and run project): https://rds.theconstructsim.com/tc_projects/use_project_share_link/ab7e9a02-8907-4208-996a-ba1f45c20db2
@@ -56,7 +56,7 @@ Some Programming Resources
   * Original post: https://www.reddit.com/r/ROS/comments/lmnqh5/nasas_curiosity_rover_in_gazebo_simulation/
   * Direct link to video: https://www.youtube.com/watch?v=fq0DJSbwiZI
 
-## Miscellaneous Intersting NASA Stuff <a name="headingD"></a>
+## Miscellaneous Intersting NASA Stuff
 * All sorts of Solar System Tours (plus New Horizons/Pluto)!
   * Main page with all links (these can be played online or downloaded locally): https://eyes.nasa.gov/
 * NASA Pi Day Challenges
