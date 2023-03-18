@@ -55,16 +55,17 @@ Some Programming Resources
 * ***I can add instructions for installing Python (and other things) locally if folks want, but keeping things online is safer in a sense, for beginners, because it makes it more difficult to accidentally delete important files and such on your computer when you first start learning about file I/O...***
 
 ### Python interpreters online
-* ***This is the best online interpreter I've found so far, in terms of flexibility:*** https://www.python.org/shell/
+* ***This is the _best_ online interpreter I've found so far, in terms of flexibility (but not ease of use, necessarily):*** https://www.python.org/shell/
   * Note that this uses PythonAnywhere...: https://www.pythonanywhere.com/
   * ...and that it's running the "haggis" version with the libraries available as given here: https://www.pythonanywhere.com/batteries_included/
-  * I call this the best online interpreter to use because, while it only gives a simple command-line interface (CLI) instead of a file editor-type interface, it has a bunch of libraries that you can load in with the "import" or "from __ import __" commands
-* Online interpreter that allows files to be saved and loaded from disk, multiple files open at once, lots of settings: https://www.online-python.com/
-* Alternate online interpreter (will need to create a free account to use it): https://replit.com/languages/python3
+  * I call this the best online interpreter to use because, while it only gives a simple command-line interface (CLI) instead of a file editor-type interface, it has a bunch of libraries that you can load in (with the "import" or "from __ import __" commands) *and* it shows what happens right away as you type things, immediately
+* ***This is the _easiest_ online interpreter I've found so far*** (it allows files to be both saved to and loaded from disk, multiple files open at once, has lots of settings, etc.): https://www.online-python.com/
+* Alternate pretty-good online interpreter (does not require you to create a free account to use it, has *some* additional Python libraries available): https://trinket.io/python/
+* Yet another online interpreter (will need to create a free account to use it): https://replit.com/languages/python3
 * ***This is not a normal interpreter per se, but it can be used to visualize what your Python code is doing step-by-step and line-by-line:*** https://pythontutor.com/
   * Copy all your code into here and then click "Visualize Execution" for it to create the visuals for you: https://pythontutor.com/python-debugger.html#mode=edit
 
-* ...There are also 'iPython notebooks' that some folks create and share online -- these range from the very complex to very simple
+* ...There are also 'iPython notebooks' that some folks create and share online -- these range from very complex to very simple
   * Jupyter Notebook has a free online tool (Jupyter Lab) that allows ".ipynb" tutorials and such to be shared easily: https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb
   * Google Colab also has an online tool that runs ".ipynb" files as well: https://colab.research.google.com/drive/1YKHHLSlG-B9Ez2-zf-YFxXTVgfC_Aqtt
   * Some iPython notebooks for programming for kids are discussed in this forum here: https://discourse.jupyter.org/t/python-for-kids/6747
@@ -73,6 +74,7 @@ Some Programming Resources
 * PythonTurtle (inspired by Logo) (requires local install)
   * This is a self-contained tutorial that requires a local installation, but is pretty good: https://pythonturtle.org/
 * Raspberry Pi Coding for Kids Tutorial Series
+  * ***Note that you do not need to create a free account at Trinket.io to run things, and you can just use https://www.online-python.com/ instead***
   * "Introduction to Python"
     * Main page that gives an introduction/explanation for parents/adults: https://www.raspberrypi.org/blog/coding-for-kids-art-games-animations-beginners-python-programming/
     * Tutorials page (does not require you create a free online account, but will allow you to save progress): https://projects.raspberrypi.org/en/pathways/python-intro
