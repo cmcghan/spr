@@ -20,7 +20,7 @@ Some Programming Resources
 
 ### Interactive realistic Mars rover driving (Mars Science Lab)
 * ***Interactive (WASD or mousepad) open-source rover driving***
-  * Just click on the screen and use the WASD keys (or use your mouse on the control pad in the lower right) to control how it moves around(!): https://opensourcerover.jpl.nasa.gov/#!/home
+  * Just click on the screen and use the WASD keys (or use your mouse on the control pad in the lower right) to control how it moves around(!): https://jplopensourcerover.com/#!/home
 * ***Interactive (waypoint) simulated rover driving***
   * Just click on the screen when in "Free Drive and Rover Replay" mode and it'll move to where you clicked(!!): https://eyes.nasa.gov/curiosity/
 
